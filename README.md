@@ -3,13 +3,6 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
 </div>
 
 ###
@@ -21,7 +14,6 @@
 </div>
 
 ###
-
 <!--
 **spectrum24c/spectrum24c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
