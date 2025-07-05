@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://wa.link/43p5lp" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="15" alt="whatsapp logo"  />
   </a>
 </div>
 
