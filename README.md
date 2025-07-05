@@ -2,7 +2,7 @@
 
 ###
 
-<div align="center" style="display:flex;">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="2" alt="javascript logo"  />
   <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="2" alt="react logo"  />
